@@ -1,0 +1,22 @@
+.MainHeader{
+  position: relative;
+}
+#headerImg{
+
+}
+#nameTxt{
+  position: absolute;
+  top: 5px;
+  left: 30px;
+  font-size: 70px;
+  font-family: cursive;
+  color: #007bff; /* #3F51B5 --*/
+}
+
+#adminBtn{
+  position: absolute;
+  top: 35px;
+  right: 30px;
+  cursor: pointer;
+
+}

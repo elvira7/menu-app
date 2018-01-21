@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dishes>
+  <dish>
+    <id>1</id>
+    <title>Chicken salad</title>
+    <description>Our chicken salad dressed with fresh, nutty, slightly spicy homemade dressing aaaaaaa.</description>
+    <category>Starters</category>
+    <allaince>Starters</allaince>
+  </dish>
+  <dish>
+    <id>2</id>
+    <title>Fish in a bag</title>
+    <description>Fish in the foil bag with herbs and rice.</description>
+    <category>Main Course</category>
+  </dish>
+  <dish>
+    <id>3</id>
+    <title>Banana pancakes</title>
+    <description>Fluffy American-style pancakes with sticky bananas.</description>
+    <category>Desserts</category>
+    <allaince>Desserts</allaince>
+  </dish>
+</dishes>
